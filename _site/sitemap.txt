@@ -1,9 +1,0 @@
-
-http://news.hackerearth.com/archive.html
-http://news.hackerearth.com/atom.xml
-http://news.hackerearth.com/categories.html
-http://news.hackerearth.com/index.html
-http://news.hackerearth.com/pages.html
-http://news.hackerearth.com/rss.xml
-http://news.hackerearth.com/sitemap.txt
-http://news.hackerearth.com/tags.html
