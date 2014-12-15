@@ -88,3 +88,10 @@ googleplus :
    annotation : bubble
 linkedin :
    counter : right 
+
+#Authors details
+authors:
+    santosh_kumar:
+        name: Santosh Kumar
+        email: santosh@hackerearth.com
+        web: http://twitter.com/importerror

@@ -8,6 +8,16 @@ comments: true
     {{ content }}
 
     {% unless page.categories == empty %}
+     
+   {% assign author = site.authors[page.author] %}
+    <div class="post">
+        <div class="meta">
+            <img src="http://www.gravatar.com/avatar/{{ author.gravatar }}?s=40">
+            <span class="author">{{ author.display_name }}</span>
+        </div>
+        {{ content }}
+    </div> 
+
     <ul class="tag_box inline">
       <li><i class="icon-folder-open"></i></li>
       {% assign categories_list = page.categories %}

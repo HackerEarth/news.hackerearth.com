@@ -4,6 +4,36 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Facebook tags -->
+    <meta property="fb:app_id" content="190817380995032" />
+    {% if page.title %}
+    <meta property="og:title" content="{{ page.title }}" />
+    {% else %} 
+    <meta property="og:title" content="Features and Updates at HackerEarth" />
+    {% endif %}
+    <meta property="og:image" content="/images/og-image.png" />
+    {% if page.description %}
+    <meta property="og:description" content="{{ page.description }}"/>
+    {% else %}
+    <meta property="og:description" content="New features, updates and products at HackerEarth"/>
+    {% endif %}
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:site_name" content="HackerEarth"/>
+    <meta property="og:type" content="website"/>
+    <!-- end Facbook tags -->
+
+    <!-- Twitter tags -->
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="@HackerEarth"/>
+    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}"/>
+    {% if page.title %}
+    <meta name="twitter:title" content="{{ page.title }}"/>
+    {% else %}
+    <meta name="twitter:title" content="{{ site.title }}"/>
+    {% endif %}
+    <!-- end Twitter tags -->
+
     <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="/stylesheets/pygment_trac.css" media="screen" />
