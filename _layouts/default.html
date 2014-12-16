@@ -18,7 +18,11 @@
     {% else %}
     <meta property="og:description" content="New features, updates and products at HackerEarth"/>
     {% endif %}
+    {% if page.url == "/index.html" %}
+    <meta property="og:url" content="{{ site.url }}" />
+    {% else %}
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    {% endif %}
     <meta property="og:site_name" content="HackerEarth"/>
     <meta property="og:type" content="website"/>
     <!-- end Facbook tags -->
@@ -26,8 +30,8 @@
     <!-- Twitter tags -->
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:site" content="@HackerEarth"/>
-    {% if page.url != "/index.html" %}
-    <meta name="twitter:url" content="http://news.hackerearth.com{{ page.url }}"/>
+    {% if page.url == "/index.html" %}
+    <meta name="twitter:url" content="http://news.hackerearth.com"/>
     {% endif %}
     {% if page.title %}
     <meta name="twitter:title" content="{{ page.title }}"/>
