@@ -25,3 +25,8 @@ profile and can edit from [profile settings](http://www.hackerearth.com/users/pr
 HackerEarth usernames will be available in basic text forms, and you can only choose a single username for your profile and for each of the Pages that you administer. Your username must be at least five characters in length and only include alphanumeric characters (A-Z, 0-9), hyphens("-"), underscore("_") or a period or full stop (".").
 
 Think carefully before choosing a username, once username set cannot be changed again.
+
+*Send email to support@hackerearth.com for any bugs or suggestions.*
+
+*Posted by [Santosh Kumar](http://hck.re/santosh).*
+*Follow me on twitter: @importerror*
