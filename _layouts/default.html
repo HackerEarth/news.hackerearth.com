@@ -19,12 +19,16 @@
     <meta property="og:description" content="New features, updates and products at HackerEarth"/>
     {% endif %}
     {% if page.url == "/index.html" %}
-    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:url" content="http://news.hackerearth.com/{{ site.url }}" />
     {% else %}
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:url" content="http://news.hackerearth.com/{{ site.url }}{{ page.url }}" />
     {% endif %}
     <meta property="og:site_name" content="HackerEarth"/>
+    {% if page.url == "/index.html" %}
     <meta property="og:type" content="website"/>
+    {% else %}
+    <meta property="og:type" content="article"/>
+    {% endif %}
     <!-- end Facbook tags -->
 
     <!-- Twitter tags -->
