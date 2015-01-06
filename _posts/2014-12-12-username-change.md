@@ -28,5 +28,5 @@ Think carefully before choosing a username, once username set cannot be changed 
 
 *Send email to support@hackerearth.com for any bugs or suggestions.*
 
-*Posted by [Santosh Kumar](http://hck.re/santosh).*
+*Posted by [Santosh Kumar](http://hackerearth.com/users/importerror).*
 *Follow me on twitter: @importerror*
