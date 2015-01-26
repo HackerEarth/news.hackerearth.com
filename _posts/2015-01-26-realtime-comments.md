@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Feature: Realtime Comments"
+title: "Feature: Realtime comments"
 description: "See comments in reatime."
 category:
 tags: [Comments, Realtime]
