@@ -10,6 +10,9 @@ tags: [Comments, Realtime]
 Now users can see comments on challenge, practice problem page etc. in realtime i.e. without
 refreshing page, similar to Facebook.
 
+Read about engineering behind realtime
+[here](http://engineering.hackerearth.com/2015/01/27/making-comments-more-powerful/#realtime).
+
 Below is the screenshot of comments section on problem page:
 
 <img src="/images/comments.png"/>
