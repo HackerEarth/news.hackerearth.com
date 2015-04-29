@@ -8,8 +8,8 @@ tags: [Recruiter, Candidate Snapshot]
 {% include JB/setup %}
 
 **What is HackerEarth Advanced Plagiarism Detector?**  
-Plagiarism is a serious issue in any field. Competitive Programming also faces
-multiple instances of plagarism. So to deal with the issue we lauched a
+Plagiarism is a serious issue in any field. Any online technical assesment tool
+also faces multiple instances of plagiarism. So to deal with the issue we lauched a
 revamped version of our Plagiarism Detection Tool. The HackerEarth Advanced
 Plagiarism Detection tool helps the recruiter to find the list of cases of
 cheating.
@@ -23,7 +23,8 @@ A sample of the report is shown below
 <img src="/images/plagiarism.png">
 
 The Plagiarism Report is not an *absolute* decision. The tool does minute level
-checks to find similarities and generates a report for the recruiter to review.
+checks to find similarities and generates a report for the recruiter to review
+and take viable decision based on it.
 
 *Send email to support@hackerearth.com for any bugs or suggestions.*
 
