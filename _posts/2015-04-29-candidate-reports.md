@@ -12,7 +12,7 @@ tags: [Recruiter, Candidate Reports]
 candidate to wrong list, you can always undo it.
 
 **Active candidates**
-<br>This list containes candidates who have completed the test.
+<br>This list contains candidates who have completed the test.
 
 <img src="/images/active-candidates.png" />
 
@@ -22,7 +22,7 @@ candidate to wrong list, you can always undo it.
 <img src="/images/invited-candidates.png" />
 
 **Offered candidates**
-<br>This list containes candidates to whom the job position is offered after processing. 
+<br>This list contains candidates to whom the job position is offered after processing. 
 
 <img src="/images/offered-candidates.png" />
 
