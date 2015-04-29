@@ -3,7 +3,7 @@ layout: post
 title: "Recruiter Feature: Advanced plagiarism detector"
 description: "Detect plagiarism in submissions done by the candidates"
 category:
-tags: [Recruiter, Candidate Snapshot]
+tags: [Recruiter, Plagiarism]
 ---
 {% include JB/setup %}
 
