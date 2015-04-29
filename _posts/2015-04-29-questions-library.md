@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Feature: Questions Library"
+title: "Recruiter Feature: Personal questions library"
 description: "Add and manage your questions collection"
 category:
 tags: [Recruiter, Questions Library]

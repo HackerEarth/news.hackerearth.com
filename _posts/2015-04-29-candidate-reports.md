@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Improvement: Candidate Reports"
+title: "Recruiter Feature: Manage candidates in a test"
 description: "Manage candidates based on your critiria"
 category:
 tags: [Recruiter, Candidate Reports]
@@ -27,7 +27,7 @@ candidate to wrong list, you can always undo it.
 <img src="/images/offered-candidates.png" />
 
 **Archived candidates**
-<br>Candidates not meeting you critiria can be adding to this list.
+<br>Candidates not meeting you requirement critiria can be adding to this list.
 
 <img src="/images/archived-candidates.png" />
 
