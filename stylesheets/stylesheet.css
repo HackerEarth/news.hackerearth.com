@@ -665,3 +665,7 @@ footer a:hover {
 .page-title {
     font-size: 25px!important;
 }
+
+.float-none {
+    float: none!important;
+}
