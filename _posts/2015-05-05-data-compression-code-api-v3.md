@@ -20,4 +20,4 @@ responses as gzip compressed content by default.
 *Send email to support@hackerearth.com for any bugs or suggestions.*
 *Contact [me](mailto:praveen@hackerearth.com) if you are interested in using HackerEarth API.*
 
-*Posted by [Praveen Kumar](http://hackerearth.com/praveen97uma).*
+*Posted by [Praveen Kumar](https://hackerearth.com/users/praveen97uma).*
