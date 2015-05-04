@@ -8,7 +8,7 @@ tags: [Recruiter, Candidates Feedback]
 {% include JB/setup %}
 
 **Candidates Feedback**
-<br>This feature lets you to view feedbacks from the candidates about the test experience. Click on Candidates Feedback under Reports Section in test dashboard. Refer to screenshots below:-
+<br>This feature lets you to view feedback from the candidates about the test experience. Click on Candidates Feedback under Reports Section in test dashboard. Refer to screenshots below:-
 
 <img src="/images/candidates-feedback.png" />
 
