@@ -669,3 +669,18 @@ footer a:hover {
 .float-none {
     float: none!important;
 }
+
+.social-icons {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.fb {
+    position: relative;
+    bottom: 6px;
+    left: 0;
+}
+
+.gplus {
+    width: 60px;
+}
