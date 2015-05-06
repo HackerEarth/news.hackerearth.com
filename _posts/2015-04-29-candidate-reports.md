@@ -29,7 +29,7 @@ candidate to wrong list, you can always undo it.
 <img src="/images/offered.png" />
 
 **Archived candidates**
-<br>Candidates not meeting your requirements can be adding to this list.
+<br>Candidates not meeting your requirements can be added to this list.
 
 <img src="/images/archived.png" />
 
