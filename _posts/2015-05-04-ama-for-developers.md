@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Feature: AMA for hosting developer Q&A"
-description: "Ask best developers on HackerEarth anything!"
+description: "Q&A with best developers on HackerEarth."
 category:
 tags: [AMA]
 ---
