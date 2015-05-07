@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "We have migrated all domains & subdomains to HTTPS"
-description: "Now your data is transferred over secure channel"
+title: "Improvement: We have migrated all domains & subdomains to HTTPS"
+description: "Now your data is transferred over secure channel."
 category:
 tags: [HTTPS, Security]
 ---
