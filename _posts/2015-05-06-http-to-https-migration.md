@@ -8,7 +8,7 @@ tags: [HTTPS, Security]
 {% include JB/setup %}
 
 We have migrated www.hackerearth.com to HTTPS. Now all your
-communication to [HackerEearth](https://www.hackerearth.com) is secure.
+communication to [HackerEarth](https://www.hackerearth.com) is secure.
 No more eavesdropping or tampering with your contents of the communication.
 
 Along with [hackerearth.com](www.hackerearth.com) we migrated our subdomains
