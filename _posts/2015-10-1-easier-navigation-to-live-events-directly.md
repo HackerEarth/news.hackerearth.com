@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Feature: Easier Navigation to all live events"
+title: "Feature: Easy navigation to all live events"
 description: "We have developed a widget to access all live events across HackerEarth"
 category:
 tags: [UI]
