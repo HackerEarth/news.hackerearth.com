@@ -3,7 +3,7 @@ layout: post
 title: "Recruiter Feature: Manage candidates in a test"
 description: "Add candidates to Offered or Archived."
 category:
-tags: [Recruiter, Candidate Reports]
+tags: [Recruiter, Candidate Reports, Assessment]
 ---
 {% include JB/setup %}
 

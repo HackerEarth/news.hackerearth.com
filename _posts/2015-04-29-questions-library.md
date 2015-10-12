@@ -3,7 +3,7 @@ layout: post
 title: "Recruiter Feature: Personal questions library"
 description: "Add and manage your questions for the tests."
 category:
-tags: [Recruiter, Questions Library]
+tags: [Recruiter, Questions Library, Assessment]
 ---
 {% include JB/setup %}
 

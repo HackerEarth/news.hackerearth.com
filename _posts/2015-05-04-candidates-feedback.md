@@ -3,7 +3,7 @@ layout: post
 title: "Recruiter Feature: View feedback of candidates in a test"
 description: "Know candidates experience about the test."
 category:
-tags: [Recruiter, Candidates Feedback]
+tags: [Recruiter, Candidates Feedback, Assessment]
 ---
 {% include JB/setup %}
 

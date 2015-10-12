@@ -3,7 +3,7 @@ layout: post
 title: "Recruiter Feature: Take candidate snapshots during a test"
 description: "Monitor candidate using snapshot feature in tests."
 category:
-tags: [Recruiter, Candidate Snapshot]
+tags: [Recruiter, Candidate Snapshot, Assessment]
 ---
 {% include JB/setup %}
 
