@@ -12,7 +12,8 @@ Let's take an example, I have two emails associated with my HackerEarth account.
 
 <img src="/images/multiple-user-emails.png" />
 
-Say, a recruiter invites me on raviojha2105@gmail.com, an invite will be sent to me. Now again, if recruiter invites me my secondary emailraviojha2105+he@gmail.com, we display a message showing that raviojha2105+he@gmail.com has already been invited.
+Say, a recruiter invites me on raviojha2105@gmail.com, an invite will be sent to me.
+Now again, if recruiter invites me my secondary email raviojha2105+he@gmail.com, we display a message showing that raviojha2105+he@gmail.com has already been invited.
 
 <img src="/images/new-invites-page.png" />
 
