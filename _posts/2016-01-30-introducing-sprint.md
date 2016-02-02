@@ -7,9 +7,9 @@ tags: [Hackathon, Sprint]
 ---
 {% include JB/setup %}
 
-Hackathons are about bringing your crazy ideas to reality. It's where you push your limits, make new friends and innovate. Come make history with hackathons and Sprint is a tools which is use to conduct hackathons. You can host your hakcthon in a minute by using sprint tool and it is completely customizable and many features.
+Hackathons are about bringing your crazy ideas to reality. It's where you push your limits, make new friends and innovate. We introduce HackerEarth Sprint, a tool to conduct hackathons. You can host your hackathon in a minute by using this product which is completely customizable. It is loaded with many flexible features such as Admin Management, Custom Judging Criteria, Hackathon Analytics etc that gives a hasslefree experience throughout.
 
-Sprint tool is accessible at [https://www.hackerearth.com/sprints/](https://www.hackerearth.com/sprints/)
+Sprint tool is accessible at [https://sprint.hackerearth.com/](https://sprint.hackerearth.com/)
 
 <img src="/images/introducing-sprint-1.png" />
 
