@@ -7,18 +7,18 @@ tags: [Recruiter, Assessment]
 ---
 {% include JB/setup %}
 
-In HackerEarth Assessments, candidate reports is one of the most used sought feature.
-After the test, recruiters want to filter and interview candidates as smoothly as possible.
+In HackerEarth Assessments, candidate reports is one of the most used feature.
+After the test, recruiters want to filter and interview selected candidates as easily as possible.
 To make the candidate filtering process more seamless, a new functionality has been added in reports.
-As a recruiter, you can apply filters according to your own judging criteria and narrow down the number of candidates from thousands to a manageable figure.
+As a recruiter, you can now filter candidates according to your own judging criteria and narrow down the number of candidates from thousands to a manageable number.
 
 Filters can be applied on the basis of any one or multiple attributes at a time:
 
   - Total score in the test
-  - Score in different kinds of problems, say MCQ, Programming etc
+  - Score in specific types of problems, say MCQ, Programming etc
   - Total time taken by candidate to finish the test
   - In case of Programming questions, you can also filter by language used by candidates
-  - Finish time of candidate, for instance, many a times you just want to filter candidates who finished the test in last 2 days
+  - Finish time of candidate, for instance, sometimes you just want to filter candidates who finished the test in last 2 days
 
 <img src="/images/filter_options_button.png" />
 
