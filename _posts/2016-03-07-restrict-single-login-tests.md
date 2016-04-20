@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Feature: Restrict single login in tests"
-description: "Restricting single login for a candidate for a test"
+title: "Feature: Restrict multiple logins in tests"
+description: "Restricting multiple logins by a candidate for a test"
 category:
 tags: [Recruiter, Assessment]
 ---
