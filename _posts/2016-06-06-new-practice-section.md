@@ -14,7 +14,7 @@ between easy to read tutorials, practice problems and instant gratification for
 users who want to learn or review their computer science concepts. 
 
 Currently we have *Basic Programming*, *Data Structures*, *Algorithms* and *Math* tracks. 
-Check new [Practice Section here](https://www.hackerearth.com/practice/).
+Try out the new practice section [here](https://www.hackerearth.com/practice/).
 
 Following changes are introduced in the new practice section:
 
@@ -44,7 +44,7 @@ practice problems in that subtopic.
 
 <img src="/images/sub_topic_practice.png">
 
-We will keep improving our platform. Stay tuned for more updates.
+We will keep improving the practice section and add more features to it as we go forward.
 
 Happy Coding :)
 
