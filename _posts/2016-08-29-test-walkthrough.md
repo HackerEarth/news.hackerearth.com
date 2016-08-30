@@ -7,17 +7,17 @@ tags: [Recruiter, Assessment]
 ---
 {% include JB/setup %}
 
-We have released a new feature in the candidate test interface that helps the candidates to successfully attempt a test, even though they are a first time user. We have launched walkthroughs for each and every type of questions that can be accommodated on our platform.
 
-A short video on test walkthrough should be helpful.
+We have released a new feature in the candidate test interface that will help candidates to successfully attempt a test, even if they are visiting the interface for the first time. We have launched a walk-through for each and every type of questions that are available on our platform.
+
+A short video of the test walk-through is shown below:
 
 <iframe width="700" height="315" src="https://www.youtube.com/embed/IFq5aHZyA5E" frameborder="0" allowfullscreen></iframe>
 
 
+In order to explore this feature, you can use the practice test available before the beginning of every test.
 
-You can try out the feature in our practice test.
-
-In practice test, the walkthroughs auto start on their own. However, in actual tests, in the interest of candidates' time, we don't auto start the walkthrough. Candidates can start the walkthrough by clicking on (?) icon in the top-right corner of the question.
+In the practice test, the walk-through will start automatically once a question is loaded. However, in actual tests, in the interest of candidates' time, we don't auto start the walk-through. Candidates can start the walkthrough by clicking on (?) icon in the top-right corner of the question.
 
 <img src="/images/test_walkthrough.png" />
 
