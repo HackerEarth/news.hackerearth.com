@@ -1,20 +1,18 @@
 ---
 layout: post
-title: "Improvement: User Dashboard Revamp"
-description: "Revamping the user dashboard"
+title: "Sprint: User Dashboard Revamp"
+description: "Participating in hackathons is now much more fun with the improved user dashboard."
 category:
 tags: [Hackathon, Sprint]
 ---
 {% include JB/setup %}
 
 
-We have just redesigned and revamped the user dashboard to enable smooth user experience for the participants in the hackathons and enable all user interactions from one single place via the dashboard. Prior to this revamp, all the user workflows were decentralized.
+We have just redesigned and revamped the user dashboard for sprints to enable smooth user experience for the participants in the hackathons and enable all user interactions from one single place via the dashboard. Prior to this revamp, all the user workflows in sprints were decentralized.
 
 Have a look at the dashboard. Open the image in a new tab and zoom for a better view.
 
 <img src="/images/team_dashboard.png" />
-
-
 
 You can now send invites to others with your own personal message (give it a click!) or check out how people have responded to your invitations. Accept or reject the requests you have received from others. Tap that switch if you do not want to receive requests from others (and let others know you are not looking for participants).
 Leave your team if you absolutely need to. If you are a team leader, you must remove all team members before you can leave the team.
@@ -42,6 +40,8 @@ If you have trouble with the markdown field, check out [markdown basics](http://
 Once you have submitted an idea, you can view the same or click on "edit" button to edit your idea.
 
 <img src="/images/idea.png" />
+
+Participate in [hackathons](https://www.hackerearth.com/challenges) to see this dashboard live in action.
 
 What do you think of this new dashboard? I would love to hear your reactions.
 

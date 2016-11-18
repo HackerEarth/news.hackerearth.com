@@ -6,8 +6,8 @@ permalink: /:categories/:year/:month/:day/:title/
 
 name: HackerEarth News
 markdown: redcarpet
-highlighter: true
-pygments: true
+highlighter: pygments
+# pygments: true
 github: HackerEarth
 twitter: HackerEarth
 
