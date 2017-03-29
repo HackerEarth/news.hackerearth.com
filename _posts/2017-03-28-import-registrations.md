@@ -51,4 +51,7 @@ This is the last step where the users will be registered for the hackathon and t
 
 <img src="/images/import_reg_step6.gif">
 
+Send any suggestions and feedback to *[sdeep@hackerearth.com](mailto:sdeep@hackerearth.com)* or *[support@hackerearth.com](mailto:support@hackerearth.com)*.
 
+<i>Posted by [Souradeep](http://www.hackerearth.com/users/desouradeep/).
+Follow me [@desouradeep](http://twitter.com/desouradeep).</i>
